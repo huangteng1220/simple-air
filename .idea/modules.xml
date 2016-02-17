@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simple-air.iml" filepath="$PROJECT_DIR$/simple-air.iml" />
+      <module fileurl="file://$PROJECT_DIR$/air/simple-air-air.iml" filepath="$PROJECT_DIR$/air/simple-air-air.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swc/simple-air-swc.iml" filepath="$PROJECT_DIR$/swc/simple-air-swc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swf/simple-air-swf.iml" filepath="$PROJECT_DIR$/swf/simple-air-swf.iml" />
+    </modules>
+  </component>
+</project>
